@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-qy46nm.keitaro-tech-rtb.online/sitemap.xml
